@@ -1,7 +1,7 @@
 # STM32-Projects
 
 ## Description
-This repository contains various demo projects and examples for different embedded system functionalities, including ADC, SPI, UART, and more. Each zip file includes source code and relevant documentation for the respective demo.
+This repository contains various demo projects and examples for different embedded system functionalities, including ADC, SPI, UART, and more. 
 
 ##List of Demos
 * ADCDEMO.zip: Analog-to-Digital Converter demo
